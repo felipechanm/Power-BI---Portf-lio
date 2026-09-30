@@ -77,12 +77,12 @@ Dados históricos extraídos da NASDAQ para fins educacionais e desenvolvimento 
 
 ### Principais Insights
 
-- Comparação entre retorno acumulado e volatilidade das ações analisadas.
+• Comparação entre retorno acumulado e volatilidade das ações analisadas.
 
-- Oracle apresentou o melhor desempenho do período, com retorno acumulado de 22,23%.
+• Oracle apresentou o melhor desempenho do período, com retorno acumulado de 22,23%.
 
-- Tesla registrou a maior volatilidade entre as empresas analisadas (4,00%), indicando maior variação nos preços ao longo do período.
+• Tesla registrou a maior volatilidade entre as empresas analisadas (4,00%), indicando maior variação nos preços ao longo do período.
 
-- IBM apresentou a menor volatilidade (1,56%), demonstrando maior estabilidade relativa.
+• IBM apresentou a menor volatilidade (1,56%), demonstrando maior estabilidade relativa.
 
-- A análise conjunta de retorno e volatilidade permite avaliar o equilíbrio entre risco e retorno dos ativos.
+• A análise conjunta de retorno e volatilidade permite avaliar o equilíbrio entre risco e retorno dos ativos.
