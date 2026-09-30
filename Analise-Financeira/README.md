@@ -34,7 +34,7 @@ Dataset educacional utilizado para fins de aprendizagem e desenvolvimento do pro
 <img width="625" height="337" alt="image" src="https://github.com/user-attachments/assets/c99ceaa9-8d46-4059-ab78-491b1920bb39" />
 
 
-## Insights
+## Principais Insights
 
 - A empresa apresentou receita total de $1,92M e lucro líquido de $767K.
 
