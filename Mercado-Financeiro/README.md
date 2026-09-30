@@ -75,7 +75,7 @@ Dados históricos extraídos da NASDAQ para fins educacionais e desenvolvimento 
 <img width="632" height="338" alt="image" src="https://github.com/user-attachments/assets/6bf7eb74-b739-46e3-b606-e74e65bb8aca" />
 
 
-### Principais Destaques
+## Principais Destaques
 
 - Comparação entre retorno acumulado e volatilidade das ações analisadas.
 - Oracle apresentou o melhor desempenho do período, com retorno acumulado de 22,23%.
