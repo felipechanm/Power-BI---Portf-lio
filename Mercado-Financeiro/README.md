@@ -50,7 +50,7 @@ Dados históricos extraídos da NASDAQ para fins educacionais e desenvolvimento 
 <img width="623" height="338" alt="image" src="https://github.com/user-attachments/assets/27b93a7e-a2f5-4c30-bf0c-2b5a396a428a" />
 
 
-### Principais Destaques
+### Principais Insights
 
 - Retorno acumulado por empresa.
 - Evolução de US$100 investidos.
@@ -62,7 +62,7 @@ Dados históricos extraídos da NASDAQ para fins educacionais e desenvolvimento 
 <img width="631" height="340" alt="image" src="https://github.com/user-attachments/assets/e0e059ad-9ca2-4079-8eea-6bf768859b42" />
 
 
-### Principais Destaques
+### Principais Insights
 
 - Acompanhamento da evolução dos preços de fechamento ao longo do período analisado.
 - Identificação de tendências de alta e baixa das ações.
@@ -75,7 +75,7 @@ Dados históricos extraídos da NASDAQ para fins educacionais e desenvolvimento 
 <img width="632" height="338" alt="image" src="https://github.com/user-attachments/assets/6bf7eb74-b739-46e3-b606-e74e65bb8aca" />
 
 
-## Principais Destaques
+### Principais Insights
 
 - Comparação entre retorno acumulado e volatilidade das ações analisadas.
 - Oracle apresentou o melhor desempenho do período, com retorno acumulado de 22,23%.
