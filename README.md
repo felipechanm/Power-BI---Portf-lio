@@ -2,11 +2,6 @@
 
 Olá! Meu nome é Felipe Chan Meleiro e este repositório reúne projetos desenvolvidos em Power BI com foco em análise de dados, modelagem de dados, Power Query, DAX e visualização de informações para apoio à tomada de decisão.
 
-## Sobre Mim
- 
-Estudante e profissional em desenvolvimento na área de Business Intelligence, com foco em Power BI, modelagem de dados, Power Query e DAX.
- 
-Este portfólio tem como objetivo demonstrar minhas habilidades na transformação de dados em informações relevantes para suporte à tomada de decisão.
 
 ## Competências Demonstradas
 
