@@ -23,10 +23,10 @@ Este portfólio tem como objetivo demonstrar minhas habilidades na transformaç�
 
 ## Projetos
 
-- 📈 ./Mercado-Financeiro
+- 📈 [Mercado Financeiroo
 - 💰 ./Analise-Financeira
 - 👥 ./Analise-RH
-- 🚚 ./Logistica
+- 🚚 [Logística](./Logistica
 ---
 
 ## Sobre os Projetos
