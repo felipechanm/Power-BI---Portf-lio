@@ -1,45 +1,41 @@
-# Análise Financeira
+# Financial Analysis
 
-## Visão Geral
+## Overview
 
-Dashboard desenvolvido em Power BI para acompanhamento do desempenho financeiro de uma empresa, permitindo analisar receitas, despesas, lucro líquido, margem de lucro e os principais componentes financeiros.
+Power BI dashboard for monitoring a company's financial performance, analyzing revenue, expenses, net profit, profit margin, and the main financial components.
 
-## Objetivos
+## Objectives
 
-- Monitorar a saúde financeira da organização.
-- Acompanhar a evolução das receitas, despesas e lucros.
-- Identificar os principais componentes de receita e despesa.
-- Apoiar a tomada de decisão por meio de indicadores financeiros.
+- Monitor the organization's financial health
+- Track the evolution of revenue, expenses, and profit
+- Identify the main revenue and expense components
+- Support decision-making through financial metrics
 
-## Principais Indicadores
+## Key Metrics
 
-- Receita Total
-- Despesa Total
-- Lucro Líquido
-- Margem de Lucro
+- Total Revenue
+- Total Expenses
+- Net Profit
+- Profit Margin
 
-## Ferramentas Utilizadas
+## Tools Used
 
 - Power BI
 - Power Query
 - DAX
-- Modelagem de Dados
+- Data Modeling
 
-## Fonte dos Dados
+## Data Source
 
-Dataset educacional utilizado para fins de aprendizagem e desenvolvimento do projeto.
+Educational dataset used for learning and project development.
 
 ## Dashboard
 
 <img width="625" height="337" alt="image" src="https://github.com/user-attachments/assets/c99ceaa9-8d46-4059-ab78-491b1920bb39" />
 
+**Key Insights**
 
-## Principais Insights
-
-- A empresa apresentou receita total de $1,92M e lucro líquido de $767K.
-
-- As vendas representam aproximadamente 71% da receita total.
-
-- Administrativo é o maior componente de despesa da operação.
-
-- A margem de lucro consolidada foi de 39,96%, demonstrando rentabilidade positiva no período analisado.
+- The company posted $1.92M in total revenue and $767K in net profit over the period.
+- Sales account for roughly 71% of total revenue, the main driver of the top line.
+- Administrative costs are the largest expense component, making them the clearest lever for margin improvement.
+- The consolidated profit margin reached 39.96% — a healthy level of profitability for the period.
