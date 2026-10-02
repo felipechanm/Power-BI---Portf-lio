@@ -1,49 +1,45 @@
 # People Analytics
 
-## Visão Geral
+## Overview
 
-Dashboard desenvolvido em Power BI para análise de indicadores de Recursos Humanos, permitindo acompanhar o perfil dos colaboradores, remuneração, promoções e características da força de trabalho.
+Power BI dashboard for analyzing Human Resources metrics, tracking employee profiles, compensation, promotions, work engagement, and workforce composition.
 
-## Objetivos
+## Objectives
 
-- Analisar a composição do quadro de colaboradores.
-- Monitorar indicadores de remuneração e experiência.
-- Avaliar oportunidades de promoção.
-- Apoiar decisões relacionadas à gestão de pessoas.
+- Analyze the composition of the workforce
+- Monitor compensation and experience metrics
+- Assess promotion opportunities
+- Support people-management decisions
 
-## Principais Indicadores
+## Key Metrics
 
-- Total de Funcionários
-- Distribuição por Gênero
-- Salário Médio
-- Experiência Média
-- Taxa de Promoção
-- Funcionários Aptos para Promoção
+- Total Employees
+- Gender Distribution
+- Average Salary
+- Average Experience
+- Promotion Rate
+- Employees Eligible for Promotion
+- Work Engagement
 
-## Ferramentas Utilizadas
+## Tools Used
 
 - Power BI
 - Power Query
 - DAX
-- Modelagem de Dados
+- Data Modeling
 
-## Fonte dos Dados
+## Data Source
 
-Dataset educacional utilizado para fins de aprendizagem e desenvolvimento do projeto.
+Educational dataset used for learning and project development.
 
 ## Dashboard
 
 <img width="619" height="337" alt="image" src="https://github.com/user-attachments/assets/9928bd0d-018c-4da2-bec9-8cd16cd94690" />
 
+**Key Insights**
 
-## Principais Insights
-
-- Cientistas de Dados representam o maior grupo de colaboradores da organização.
-
-- A empresa possui uma distribuição diversificada de profissionais entre diferentes funções.
-
-- A taxa de promoção observada foi de 17,64%.
-
-- 247 colaboradores foram identificados como aptos para promoção.
-
-- O salário médio dos colaboradores foi de R$ 6.927,51.
+- The workforce is heavily data-focused: Data Scientists are by far the largest group (638, ~46% of the 1,400 employees), followed by Data Analysts (246) and AI Engineers (176).
+- It is an experienced and well-paid workforce, averaging 11.3 years of experience and an average salary of $6,927.51.
+- Gender distribution is male-skewed: 59.9% male (838) versus 40.1% female (562).
+- 247 employees (17.6%) are eligible for promotion, pointing to a sizeable internal talent pipeline.
+- Work engagement concentrates at the "medium" level (59%); only ~10% report high engagement while ~25%
