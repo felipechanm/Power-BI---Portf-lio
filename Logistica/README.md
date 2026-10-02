@@ -1,67 +1,59 @@
-# Logística
+# Logistics
 
-## Visão Geral
+## Overview
 
-Dashboard desenvolvido em Power BI para monitoramento da operação logística, permitindo acompanhar entregas, nível de serviço (SLA), desempenho operacional e indicadores relacionados à distribuição.
+Power BI dashboard for monitoring logistics operations, tracking deliveries, service level (SLA), operational performance, and distribution-related metrics.
 
-## Objetivos
+## Objectives
 
-- Monitorar o desempenho das entregas.
-- Acompanhar o nível de serviço da operação.
-- Identificar os principais canais de entrega.
-- Avaliar o desempenho de vendedores e cidades.
-- Apoiar decisões relacionadas à eficiência logística.
+- Monitor delivery performance
+- Track the operation's service level
+- Identify the main delivery channels
+- Assess the performance of sellers and cities
+- Support decisions related to logistics efficiency
 
-## Principais Indicadores
+## Key Metrics
 
-- Total de Entregas
-- Entregas no Prazo
-- SLA Logístico
-- Desempenho por Canal
-- Ranking de Vendedores
-- Ranking de Cidades
+- Total Deliveries
+- On-Time Deliveries
+- Logistics SLA
+- Performance by Channel
+- Seller Ranking
+- City Ranking
 
-## Ferramentas Utilizadas
+## Tools Used
 
 - Power BI
 - Power Query
 - DAX
-- Modelagem de Dados
+- Data Modeling
 
-## Fonte dos Dados
+## Data Source
 
-Dataset educacional utilizado para fins de aprendizagem e desenvolvimento do projeto.
+Educational dataset used for learning and project development.
 
 ## Dashboard
 
-### Página 1 - Análise Logística
+### Page 1 — Logistics Analysis
 
 <img width="625" height="337" alt="image" src="https://github.com/user-attachments/assets/e41b3b20-f622-41c4-a733-7a231c70850b" />
 
+**Key Insights**
 
-## Principais Insights
-
-- O SLA logístico atingiu 87,02% no período analisado.
-
-- Mais de 70% das entregas foram realizadas antecipadamente.
-
-- A equipe Norte apresentou o melhor desempenho operacional.
-
-- O acompanhamento mensal permite identificar tendências e variações na operação logística.
+- The logistics SLA reached 87.02% over the period, indicating a solid service level across the operation.
+- More than 70% of deliveries were completed ahead of schedule — a strong on-time performance.
+- The North team posted the best operational performance among the regions.
+- Monthly tracking makes it possible to spot trends and variations in the operation over time.
 
 ---
 
-### Página 2 - Desempenho Operacional
+### Page 2 — Operational Performance
 
 <img width="617" height="335" alt="image" src="https://github.com/user-attachments/assets/af324ce7-0848-4e88-b51c-edfafb346a67" />
 
+**Key Insights**
 
-## Principais Insights
-
-- Canal12 apresentou o maior volume de entregas realizadas dentro do prazo.
-
-- O vendedor 3894 liderou a operação com 2.208 entregas.
-
-- A cidade 79 registrou o maior volume de entregas do período.
-
-- Os principais canais concentraram grande parte das entregas realizadas.
+- Channel 12 had the highest volume of on-time deliveries.
+- Seller 3894 led the operation with 2,208 deliveries.
+- City 79 recorded the highest delivery volume of the period.
+- A small number of channels concentrated most of the deliveries — a typical Pareto pattern, useful for prioritizing where to focus operational effort.
