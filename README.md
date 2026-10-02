@@ -1,38 +1,31 @@
-# Power BI - Portfólio
+# Power BI - Portfolio
 
-Olá! Meu nome é Felipe Chan Meleiro e este repositório reúne projetos desenvolvidos em Power BI com foco em análise de dados, modelagem de dados, Power Query, DAX e visualização de informações para apoio à tomada de decisão.
+Hi! My name is Felipe Chan Meleiro, and this repository brings together projects developed in Power BI focused on data analysis, data modeling, Power Query, DAX, and data visualization to support decision-making.
 
 
-## Competências Demonstradas
+## Skills Demonstrated
 
 - Power BI
 - Power Query
 - DAX
-- Modelagem de Dados
-- Visualização de Dados
-- Storytelling com Dados
+- Data Modeling
+- Data Visualization
+- Data Storytelling
 - Business Intelligence (BI)
-- Análise de Indicadores
+- KPI Analysis
 
 ---
 
-## Projetos
+## Projects
 
-- 📈 [Mercado Financeiro](./Mercado-Financeiro)
-- 💰 [Análise Financeira](./Analise-Financeira)
-- 👥 [Análise de RH](./Analise-RH)
-- 🚚 [Logística](./Logistica)
+- 📈 [Stock Market](./Mercado-Financeiro)
+- 💰 [Financial Analysis](./Analise-Financeira)
+- 👥 [HR Analytics](./Analise-RH)
+- 🚚 [Logistics](./Logistica)
 ---
 
-## Sobre os Projetos
+## About the Projects
 
-Os projetos apresentados neste portfólio foram inicialmente desenvolvidos durante minha formação em Power BI, utilizando bases de dados educacionais e cenários simulados voltados ao aprendizado da ferramenta.
+The projects in this portfolio were initially developed during my Power BI training, using educational datasets and simulated scenarios aimed at learning the tool.
 
-Após a conclusão das versões iniciais, os dashboards foram revisados, aprimorados e expandidos com novos indicadores, melhorias visuais, insights executivos e análises complementares, com o objetivo de compor um portfólio mais próximo de aplicações reais de Business Intelligence.
-
----
-
-## Contato
-
-- LinkedIn: www.linkedin.com/in/felipechanmeleiro
-- E-mail: felipechanm@gmail.com
+After completing the initial versions, the dashboards were reviewed, improved, and expanded with new indicators, visual enhancements, executive insights, and complementary analyses, with the goal of building a portfolio closer to real-world Business Intelligence applications.
